@@ -1,4 +1,5 @@
-//code for kicking mechanism
+//code for kicking mechanism completed
+
 #define ir1 12
 #define ir2 10
 /*#define s1 2
